@@ -1,6 +1,6 @@
 Hi, I’m @teanmi
 
-I go by Anthony and have the goal of becoming a frontend web developer.
+My name is Michael and I have the goal of becoming a frontend web developer.
 
 I am currently learning the skills of the trade and am practicing with projects.
 
