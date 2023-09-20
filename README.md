@@ -33,6 +33,7 @@
   <img alt="Lambda" src="https://img.shields.io/badge/-Lambda-ff9900?style=flat-square&logo=awslambda&logoColor=white" />
   <img alt="Amplify" src="https://img.shields.io/badge/-Amplify-ff9900?style=flat-square&logo=awsamplify&logoColor=white" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053d6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 <h4>Currently I am:</h4>
