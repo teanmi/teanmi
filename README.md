@@ -9,9 +9,12 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffd43b?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Rest API" src="https://img.shields.io/badge/-Rest_API's-430098?style=flat-square&logo=axios&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
@@ -27,13 +30,9 @@
 
 <h3>Currently Learning:</h3>
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Lambda" src="https://img.shields.io/badge/-Lambda-ff9900?style=flat-square&logo=awslambda&logoColor=white" />
   <img alt="Amplify" src="https://img.shields.io/badge/-Amplify-ff9900?style=flat-square&logo=awsamplify&logoColor=white" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053d6?style=flat-square&logo=amazondynamodb&logoColor=white" />
-  
 </p>
 
 <h4>Currently I am:</h4>
