@@ -1,6 +1,6 @@
 <h1>👋Hello, I am Michael</h1>
 
-<p>I am a Frontend Developer with a passion to learn more in the exciting world of code. I love trying to build creative and visually appealing websites that work for all users. If you have questions or potential opportunities you can message me through my website www.mtelakowicz.com or feel free to email me at michael@mtelakowicz.com.</p>
+<p>I am a Full-stack Developer with a passion to learn more in the exciting world of code. I love trying to build creative and visually appealing websites that work for all users. If you have questions or potential opportunities you can email me at michael@mtelakowicz.com.</p>
 
 <h3>My Current Tech Stack:</h3>
 <p>
@@ -38,9 +38,7 @@
 
 <h4>Currently I am:</h4>
 <ul>
-  <li>👨‍💻 Working Part-Time as a Full-Stack Developer Intern</li>
+  <li>👨‍💻 Preparing for AWS Cloud Practitioner Certificate</li>
   <li>🏫 Going to the University of Akron for a B.S. in Computer Science</li>
   <li>📚 Learning new programming technologies </li>
 </ul>
-
-
