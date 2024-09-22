@@ -2,7 +2,7 @@
 
 <p>I am a full-stack Developer with a passion to learn more in the exciting world of code. I love trying to build creative and visually appealing websites that work for all users. If you have questions or potential opportunities you can email me at michael@mtelakowicz.com.</p>
 
-<h3>My Current Tech Stack:</h3>
+<h3>Skills:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
@@ -26,14 +26,14 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-288fbc?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
-
-<h3>Currently Learning:</h3>
-<p>
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_On_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
   <img alt="Lambda" src="https://img.shields.io/badge/-Lambda-ff9900?style=flat-square&logo=awslambda&logoColor=white" />
   <img alt="Amplify" src="https://img.shields.io/badge/-Amplify-ff9900?style=flat-square&logo=awsamplify&logoColor=white" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053d6?style=flat-square&logo=amazondynamodb&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  
 </p>
 
 <h4>Currently I am:</h4>
